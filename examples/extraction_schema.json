@@ -1,0 +1,26 @@
+{
+  "id": "...",
+  "text_source": "full text",
+  "title_in_text": "...",
+  "q1_core_approach": "...", "q1_note": "...", "q1_source": "...",
+  "q2_memory_unit": "...", "q2_note": "...", "q2_source": "...",
+  "q3_structure": "...", "q3_note": "...", "q3_source": "...",
+  "q4_composition": "...", "q4_note": "...", "q4_source": "...",
+  "q5_ingestion": "...", "q5_trigger": "per turn | after N turns | per session | ... | not stated", "q5_note": "...", "q5_source": "...",
+  "q6_persistent_across_sessions": "yes | no | not stated",
+  "q6_manages_session_context": "yes | no | not stated",
+  "q6_multi_session_benchmark": "yes | no",
+  "q6_source": "...",
+  "q7_update": "...", "q7_note": "...", "q7_source": "...",
+  "q8_detection": "yes | no | not stated", "q8_resolution": "...", "q8_note": "...", "q8_source": "...",
+  "q9_retrieval": "...", "q9_note": "...", "q9_source": "...",
+  "q10_benchmarks": "...",
+  "q11_metrics": "...",
+  "results": [
+    {"benchmark": "...", "subset": "overall | ...", "metric": "...", "value": "...", "unit": "% | 0-1 | ms | s | tokens",
+     "system": "own | strongest baseline | full-context", "system_name": "...", "backbone": "...",
+     "judge": "... | not applicable", "source": "Table N"}
+  ],
+  "repo": "URL from the paper, or not stated",
+  "code_status": "open | partial | closed | none | not stated"
+}

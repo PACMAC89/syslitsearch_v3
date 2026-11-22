@@ -1,0 +1,13 @@
+id;group;term
+A01;A;retrieval-augmented generation
+A02;A;rag
+A03;A;RAG
+A04;A;retrieval-augmented
+B01;B;retriever
+B02;B;query rewriting
+B03;B;query expansion
+B04;B;query decomposition
+B05;B;candidate selection
+B06;B;candidate generation
+B07;B;search strategy
+B08;B;search filtering

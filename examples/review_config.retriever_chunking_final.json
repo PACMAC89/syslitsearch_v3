@@ -1,0 +1,14 @@
+{
+  "review_id": "retriever_chunking_2026_run_final_01",
+  "keywords": "examples/keywords_chunking_v2_nur_rag.csv",
+  "criteria": "examples/Screening_criteria_chunking_v2.md",
+  "sources": ["semantic_scholar", "scopus", "ieee"],
+  "years": "2025-2026",
+  "groups": "A,B",
+  "no_per_keyword": true,
+  "max_records": null,
+  "output_dir": "results/prisma/retriever_chunking_2026_run_final_01",
+  "run": "run1",
+  "batch_size": 100,
+  "papers_per_request": 5
+}

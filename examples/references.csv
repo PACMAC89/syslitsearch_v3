@@ -1,0 +1,25 @@
+label,title,doi,arxiv_id,repo
+MemGPT,MemGPT: Towards LLMs as Operating Systems,,2310.08560,letta
+HippoRAG,HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models,,2405.14831,HippoRAG
+HippoRAG 2,From RAG to Memory: Non-Parametric Continual Learning for Large Language Models,,2502.14802,HippoRAG
+Zep,Zep: A Temporal Knowledge Graph Architecture for Agent Memory,,2501.13956,graphiti
+A-MEM,A-MEM: Agentic Memory for LLM Agents,,2502.12110,A-mem
+Mem0,Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory,,2504.19413,mem0
+MemOS (MAG),MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models,,2505.22101,MemOS
+cognee (KG-LLM interface),Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning,,2505.24478,cognee
+MemoryOS,Memory OS of AI Agent,,2506.06326,MemoryOS
+MemOS (Memory OS for AI System),MemOS: A Memory OS for AI System,,2507.03724,MemOS
+MIRIX,MIRIX: Multi-Agent Memory System for LLM-Based Agents,,2507.07957,MIRIX
+LightMem,LightMem: Lightweight and Efficient Memory-Augmented Generation,,2510.18866,LightMem
+Memory Bear AI,Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence,,2512.20651,MemoryBear
+EverMemOS,EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning,,2601.02163,EverOS
+SimpleMem,SimpleMem: Efficient Lifelong Memory for LLM Agents,,2601.02553,SimpleMem
+Memori,"Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents",,2603.19935,Memori
+Omni-SimpleMem,Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory,,2604.01007,SimpleMem
+ByteRover,ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context,,2604.01599,byterover-cli
+MemMachine,MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents,,2604.04853,MemMachine
+Memanto,Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents,,2604.22085,memanto
+DimMem,DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory,,2605.15759,DimMem
+VikingMem,VikingMem: A Memory Base Management System for Stateful LLM-based Applications,,2605.29640,OpenViking
+LycheeMemory V2,LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation,,2608.12990,LycheeMem
+VoiceMem,VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction,,2608.26005,VoiceMem

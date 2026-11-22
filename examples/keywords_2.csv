@@ -1,0 +1,38 @@
+id;group;term
+A01;A;retrieval-augmented generation
+A02;A;retrieval-augmented
+A03;A;RAG
+A04;A;GraphRAG
+A05;A;language agent
+A06;A;LLM agent
+A07;A;AI agent
+A08;A;conversational agent
+A09;A;chatbot
+A10;A;dialogue system
+A11;A;chat assistant
+B01;B;knowledge source
+B02;B;corpus
+B03;B;knowledge base
+B04;B;external knowledge
+B05;B;datastore
+B06;B;document collection
+B07;B;corpus selection
+B08;B;knowledge update
+B09;B;source selection
+B10;B;data curation
+B11;B;incremental update
+B12;B;data preprocessing
+B13;B;chunking
+B14;B;document segmentation
+B15;B;text splitting
+B16;B;chunk size
+B17;B;chunk overlap
+B18;B;recursive chunking
+B19;B;semantic chunking
+B20;B;adaptive chunking
+B21;B;hierarchical chunking
+B22;B;chunking optimization
+B23;B;adaptive
+B24;B;chunking-method selection
+B25;B;parameter tuning
+B26;B;recursive splitter

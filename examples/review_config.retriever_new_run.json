@@ -1,0 +1,14 @@
+{
+  "review_id": "retriever_2026_new_run",
+  "keywords": "examples/keywords.csv",
+  "criteria": "examples/screening_criteria.md",
+  "sources": ["semantic_scholar", "scopus", "ieee"],
+  "years": "2025-2026",
+  "groups": "A,B",
+  "no_per_keyword": true,
+  "max_records": 100,
+  "output_dir": "results/prisma/retriever_2026_new_run",
+  "run": "run1",
+  "batch_size": 100,
+  "papers_per_request": 5
+}

@@ -1,0 +1,29 @@
+# Secrets (never commit API keys)
+.env
+.env.*
+!.env.example
+
+# Generated results and cached responses
+results/
+.cache/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local environments and backups
+.venv/
+venv/
+_archive/
+syslitsearch_backup_*/
+*.bak
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Generated Python package metadata
+*.egg-info/
+build/
+dist/

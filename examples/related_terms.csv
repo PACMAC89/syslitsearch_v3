@@ -1,0 +1,13 @@
+name,pattern,fields
+contradiction,contradict\w*,title abstract
+conflict,conflict\w*,title abstract
+inconsistency,inconsisten\w*,title abstract
+outdated/stale,\b(?:outdated|out-of-date|stale|obsolete)\b,title abstract
+knowledge editing,\b(?:knowledge|model|fact|memory)[ -]edit\w*|\bedit\w* (?:knowledge|facts?)\b,title abstract
+knowledge update,\b(?:knowledge|fact|belief)[ -]updat\w*|\bupdat\w* (?:knowledge|facts?|beliefs?)\b,title abstract
+unlearning/forgetting,\bunlearn\w*|\b(?:selective|targeted)[ -]forget\w*,title abstract
+belief revision,\bbelief revision|\btruth maintenance,title abstract
+hallucination detection,hallucination[ -]detect\w*|\bdetect\w* (?:of )?hallucinat\w*,title abstract
+hallucination,hallucinat\w*,title
+fact verification,\bfact[ -]?check\w*|\bfact verification|\bclaim verification,title abstract
+temporal validity,\btemporal (?:validity|conflicts?|consistency)|\btime-sensitive (?:knowledge|facts?),title abstract

@@ -1,0 +1,233 @@
+﻿id,group,term
+A01,A,Knowledge source / corpus
+A02,A,knowledge base
+A03,A,external knowledge
+A04,A,datastore
+A05,A,document collection
+A06,A,corpus selection
+A07,A,knowledge update
+A08,A,source selection
+A09,A,data curation
+A10,A,incremental update
+A11,A,data preprocessing
+A12,A,Chunking
+A13,A,document segmentation
+A14,A,text splitting
+A15,A,chunk size
+A16,A,chunk overlap
+A17,A,recursive chunking
+A18,A,semantic chunking
+A19,A,adaptive chunking
+A20,A,hierarchical chunking
+A21,A,chunking optimization
+A22,A,adaptive
+A23,A,chunking-method selection
+A24,A,parameter tuning
+A25,A,recursive splitter
+A26,A,Indexing / knowledge representation
+A27,A,dense index
+A28,A,sparse index
+A29,A,vector index
+A30,A,hierarchical index
+A31,A,graph-based indexing
+A32,A,knowledge graph
+A33,A,hybrid index
+A34,A,index optimization
+A35,A,index selection
+A36,A,representation learning
+A37,A,adaptive indexing
+A38,A,incremental indexing
+A39,A,Graph construction
+A40,A,Knowledge Graph Construction
+A41,A,entity extraction
+A42,A,relation extraction
+A43,A,entity linking
+A44,A,community detection
+A45,A,community summaries
+A46,A,graph-to-text
+A47,A,linearization
+A48,A,graph pruning
+A49,A,alignment
+A50,A,graph-guided retrieval
+A51,A,incremental update
+B01,B,Query rewriting
+B02,B,query reformulation
+B03,B,query expansion
+B04,B,query2doc
+B05,B,pseudo-document generation
+B06,B,iterative query rewriting
+B07,B,query enhancement
+B08,B,rewrite model training
+B09,B,ranking feedback
+B10,B,adaptive rewriting
+B11,B,optimization
+B12,B,reinforcement learning
+B13,B,Query decomposition
+B14,B,question decomposition
+B15,B,sub-query generation
+B16,B,multi-query retrieval
+B17,B,multi-hop retrieval
+B18,B,entity-grounded decomposition
+B19,B,adaptive decomposition
+B20,B,iterative decomposition
+B21,B,query planning
+B22,B,learned decomposition
+C01,C,Dense / sparse retrieval
+C02,C,Dense Passage Retrieval
+C03,C,dense retriever
+C04,C,sparse retrieval
+C05,C,lexical retrieval
+C06,C,BM25
+C07,C,dual encoder
+C08,C,late interaction
+C09,C,retriever training
+C10,C,retriever optimization
+C11,C,fine-tuning
+C12,C,dense retrieval training
+C13,C,representation learning
+C14,C,retriever-generator alignment
+C15,C,Retrieval fusion
+C16,C,hybrid retrieval
+C17,C,sparse-dense fusion
+C18,C,Reciprocal Rank Fusion
+C19,C,RRF
+C20,C,score fusion
+C21,C,query-based fusion
+C22,C,fusion optimization
+C23,C,weight tuning
+C24,C,trainable fusion
+C25,C,adaptive fusion
+C26,C,fusion selection
+C27,C,Retrieval depth / candidate selection
+C28,C,top-k retrieval
+C29,C,retrieval depth
+C30,C,candidate selection
+C31,C,dynamic top-k
+C32,C,threshold-based retrieval
+C33,C,retrieval cutoff
+C34,C,dynamic selection
+C35,C,adaptive retrieval depth
+C36,C,threshold tuning
+C37,C,parameter search
+C38,C,Reranking
+C39,C,re-ranking
+C40,C,cross-encoder reranking
+C41,C,LLM reranking
+C42,C,pairwise ranking
+C43,C,listwise ranking
+C44,C,MMR
+C45,C,maximal marginal relevance
+C46,C,reranker training
+C47,C,ranking feedback
+C48,C,reranking optimization
+C49,C,adaptive reranking
+D01,D,Adaptive retrieval
+D02,D,Adaptive-RAG
+D03,D,retrieval-on-demand
+D04,D,retrieval gating
+D05,D,selective retrieval
+D06,D,retrieval policy
+D07,D,question complexity
+D08,D,uncertainty-triggered retrieval
+D09,D,adaptive
+D10,D,policy learning
+D11,D,decision learning
+D12,D,self-reflection
+D13,D,retrieval selection
+D14,D,Active / iterative retrieval
+D15,D,Active Retrieval Augmented Generation
+D16,D,iterative retrieval
+D17,D,multi-step retrieval
+D18,D,retrieval refinement
+D19,D,forward-looking retrieval
+D20,D,retrieval stopping criterion
+D21,D,iterative
+D22,D,adaptive stopping
+D23,D,uncertainty-based
+D24,D,active retrieval
+D25,D,policy optimization
+D26,D,Agentic RAG
+D27,D,RAG agent
+D28,D,retrieval agent
+D29,D,tool routing
+D30,D,retrieval planning
+D31,D,multi-agent retrieval
+D32,D,agentic workflow
+D33,D,planning
+D34,D,routing
+D35,D,policy learning
+D36,D,adaptive
+D37,D,automated optimization
+D38,D,reinforcement learning
+E01,E,Context compression
+E02,E,contextual compression
+E03,E,context filtering
+E04,E,passage selection
+E05,E,evidence selection
+E06,E,context summarization
+E07,E,query-aware compression
+E08,E,compression optimization
+E09,E,adaptive compression
+E10,E,relevance filtering
+E11,E,context selection
+E12,E,Context ordering / packing
+E13,E,context ordering
+E14,E,context reordering
+E15,E,context packing
+E16,E,passage ordering
+E17,E,long-context retrieval
+E18,E,context window allocation
+E19,E,reordering
+E20,E,position-aware
+E21,E,packing optimization
+E22,E,budget-aware
+E23,E,adaptive ordering
+F01,F,Prompt and context formatting
+F02,F,prompt engineering
+F03,F,prompt template
+F04,F,context format
+F05,F,structured context
+F06,F,graph linearization
+F07,F,in-context learning
+F08,F,instruction design
+F09,F,prompt optimization
+F10,F,template selection
+F11,F,prompt tuning
+F12,F,format selection
+F13,F,instruction tuning
+F14,F,Generator / retriever-generator training
+F15,F,generator fine-tuning
+F16,F,retriever fine-tuning
+F17,F,end-to-end RAG
+F18,F,joint training
+F19,F,retriever-generator alignment
+F20,F,retrieval-augmented language model
+F21,F,fine-tuning
+F22,F,joint optimization
+F23,F,end-to-end training
+F24,F,learned retrieval
+F25,F,generator-supervised retrieval
+G01,G,Hierarchical retrieval / memory
+G02,G,hierarchical retrieval
+G03,G,tree-structured retrieval
+G04,G,recursive summarization
+G05,G,long-term memory
+G06,G,memory-augmented RAG
+G07,G,incremental knowledge integration
+G08,G,adaptive granularity
+G09,G,memory update
+G10,G,incremental update
+G11,G,hierarchical selection
+G12,G,retrieval optimization
+G13,G,Multimodal RAG
+G14,G,multimodal retrieval-augmented generation
+G15,G,image retrieval
+G16,G,visual retrieval
+G17,G,multimodal embeddings
+G18,G,cross-modal retrieval
+G19,G,multimodal fusion
+G20,G,adaptive fusion
+G21,G,modality selection
+G22,G,embedding optimization
+G23,G,retrieval optimization
+G24,G,joint training
